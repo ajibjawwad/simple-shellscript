@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# make by me: ajib
+# make by me: ajib -> ajib.jawwad@gmail.com
 # simple auto yum update running on cenots 7 and making log about its update if update success or fail
 
 TIME=$(date +%b-%d-%Y-%H:%M:%S)
