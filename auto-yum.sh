@@ -1,9 +1,9 @@
-#!/bin/sh
+#!/bin/bash
 
 # created by    : ajib
 # email         : ajib.jawwad@gmail.com
 # date          : 18-12-2017
-# desc          : simple auto yum update running on cenots 7 and making log about its update if update success or fail
+# desc          : simple auto yum update running on cenots and making log about its update if update success or fail
 
 TIME=$(date +%b-%d-%Y-%H:%M:%S)
 NOW=$(date +%Y%m%d)
