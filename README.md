@@ -1,6 +1,6 @@
 # simple-shellscript
 
-my simple shell script for manage server.
+my simple shell script for helping me to manage server. and to make easier my daily work or just to experiment about shell script.
 
 please correct me if i'm wrong :D
 
